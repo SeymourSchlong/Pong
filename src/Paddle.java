@@ -6,7 +6,7 @@ import java.awt.Graphics;
  * Paddle to hit the ball. Controllable by the player
  * 
  * @since 10.29.2018
- * @author tayloreyben0315
+ * @author seymour
  */
 
 public class Paddle {
